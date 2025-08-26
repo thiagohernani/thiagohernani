@@ -42,7 +42,7 @@
 
 ## 🌐 Vamos Conectar?  
 📫 Email: thiago.santos1999@hotmail.com
-💼 LinkedIn: [Seu LinkedIn][(https://linkedin.com/in/seudominio)](https://www.linkedin.com/in/thiagohernani1999/)  
+💼 LinkedIn: [(https://linkedin.com/in/seudominio)](https://www.linkedin.com/in/thiagohernani1999/)  
 
 ---
 
