@@ -2,7 +2,7 @@
 
 🎯 Apaixonado por tecnologia e desenvolvimento, sempre em busca de novos desafios e aprendizados.  
 💻 Formado em **Análise e Desenvolvimento de Sistemas (ADS)** e me especializando em **Back-End**.  
-📚 Conhecimentos em **Python, PHP, JavaScript, HTML, CSS, MySQL, Flask, Bootstrap** e explorando **APIs** e **e-commerce**.  
+📚 Conhecimentos em **Python, PHP, JavaScript, HTML, CSS, MySQL, Flask, Bootstrap** explorando **APIs** e **e-commerce**.  
 🚀 Meu objetivo é me tornar um desenvolvedor Back-End e contribuir com soluções inovadoras.  
 
 ---
