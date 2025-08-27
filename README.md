@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Thiago Hernani!  
 
 🎯 Apaixonado por tecnologia e desenvolvimento, sempre em busca de novos desafios e aprendizados.  
-💻 Atualmente estudando **Análise e Desenvolvimento de Sistemas (ADS)** e me especializando em **Back-End**.  
+💻 Formado em **Análise e Desenvolvimento de Sistemas (ADS)** e me especializando em **Back-End**.  
 📚 Conhecimentos em **Python, PHP, JavaScript, HTML, CSS, MySQL, Flask, Bootstrap** e explorando **APIs** e **e-commerce**.  
 🚀 Meu objetivo é me tornar um desenvolvedor Back-End e contribuir com soluções inovadoras.  
 
